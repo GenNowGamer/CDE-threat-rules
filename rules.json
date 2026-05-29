@@ -1,7 +1,255 @@
 {
-    "rulesVersion":  "1.2.0",
-    "updatedUtc":  "2026-05-22T16:53:54Z",
+    "rulesVersion":  "1.4.0",
+    "updatedUtc":  "2026-05-29T05:02:08Z",
     "hashes":  [
+                   {
+                       "sha256":  "966BAF32504C07E467C8BDDDD35A43B4908A8A7B1EB54CB14EDC056608604D47",
+                       "family":  "AgentTesla",
+                       "severity":  "Critical",
+                       "class":  "virus",
+                       "evidence":  "MalwareBazaar IOC: AgentTesla. First seen: 2026-05-28 13:42:49 UTC.",
+                       "source":  "MalwareBazaar"
+                   },
+                   {
+                       "sha256":  "D702322E43F468163353B2478EC1626E569D8A33E2732E95D6D4ABF2432168BB",
+                       "family":  "AgentTesla",
+                       "severity":  "Critical",
+                       "class":  "virus",
+                       "evidence":  "MalwareBazaar IOC: AgentTesla. First seen: 2026-05-28 09:52:26 UTC.",
+                       "source":  "MalwareBazaar"
+                   },
+                   {
+                       "sha256":  "BD21312F4B7FD5F7B589A98B472952A2111F02FEB6B11386BDB90475B14C559D",
+                       "family":  "AgentTesla",
+                       "severity":  "Critical",
+                       "class":  "virus",
+                       "evidence":  "MalwareBazaar IOC: AgentTesla. First seen: 2026-05-28 09:52:23 UTC.",
+                       "source":  "MalwareBazaar"
+                   },
+                   {
+                       "sha256":  "B38F36F835827081EAF08000BFAEA943C3B86770DF2EE7D225C54E6AC4C121F7",
+                       "family":  "AgentTesla",
+                       "severity":  "Critical",
+                       "class":  "virus",
+                       "evidence":  "MalwareBazaar IOC: AgentTesla. First seen: 2026-05-28 09:52:18 UTC.",
+                       "source":  "MalwareBazaar"
+                   },
+                   {
+                       "sha256":  "4EFA4AC9A374FE418483CAB05C51C0CA2C3BE58F8571AC3FE96D3FF8A44AA99D",
+                       "family":  "AgentTesla",
+                       "severity":  "Critical",
+                       "class":  "virus",
+                       "evidence":  "MalwareBazaar IOC: AgentTesla. First seen: 2026-05-28 09:51:57 UTC.",
+                       "source":  "MalwareBazaar"
+                   },
+                   {
+                       "sha256":  "D212B7434D098B644D7F233D8AA666BAF1444B9505171CECD09AB7B0FE9319E7",
+                       "family":  "AgentTesla",
+                       "severity":  "Critical",
+                       "class":  "virus",
+                       "evidence":  "MalwareBazaar IOC: AgentTesla. First seen: 2026-05-28 07:31:24 UTC.",
+                       "source":  "MalwareBazaar"
+                   },
+                   {
+                       "sha256":  "BCB909B14CBC4682DA59CF508D80CB17117091D445D2426EE17F6C8B501600F7",
+                       "family":  "AgentTesla",
+                       "severity":  "Critical",
+                       "class":  "virus",
+                       "evidence":  "MalwareBazaar IOC: AgentTesla. First seen: 2026-05-28 06:26:25 UTC.",
+                       "source":  "MalwareBazaar"
+                   },
+                   {
+                       "sha256":  "6BBA90E398A1387232B43FE32F6CD8CDB0C2514524EA03939456FDFB1EF1790C",
+                       "family":  "AgentTesla",
+                       "severity":  "Critical",
+                       "class":  "virus",
+                       "evidence":  "MalwareBazaar IOC: AgentTesla. First seen: 2026-05-28 06:25:43 UTC.",
+                       "source":  "MalwareBazaar"
+                   },
+                   {
+                       "sha256":  "0D83C628410771E9C37D16B83B3FCA649732B5D7FC756939AF9974A285C62F59",
+                       "family":  "AgentTesla",
+                       "severity":  "Critical",
+                       "class":  "virus",
+                       "evidence":  "MalwareBazaar IOC: AgentTesla. First seen: 2026-05-27 17:52:22 UTC.",
+                       "source":  "MalwareBazaar"
+                   },
+                   {
+                       "sha256":  "9A69AD1B616D4CD2D475B2D4DDF98F3446EA9DA715CB1EC7AC263C1F853EEAE1",
+                       "family":  "AgentTesla",
+                       "severity":  "Critical",
+                       "class":  "virus",
+                       "evidence":  "MalwareBazaar IOC: AgentTesla. First seen: 2026-05-27 14:45:28 UTC.",
+                       "source":  "MalwareBazaar"
+                   },
+                   {
+                       "sha256":  "8C1D87FD44657FEF556790D40F427921FE10EDDF40F9EDD6A58D68687286EA9D",
+                       "family":  "AgentTesla",
+                       "severity":  "Critical",
+                       "class":  "virus",
+                       "evidence":  "MalwareBazaar IOC: AgentTesla. First seen: 2026-05-27 14:45:02 UTC.",
+                       "source":  "MalwareBazaar"
+                   },
+                   {
+                       "sha256":  "145512AD0EE1EBE7CA3E4298BE88FFA7CDB984B535128430A65ACCCC9D19FF14",
+                       "family":  "AgentTesla",
+                       "severity":  "Critical",
+                       "class":  "virus",
+                       "evidence":  "MalwareBazaar IOC: AgentTesla. First seen: 2026-05-27 12:13:55 UTC.",
+                       "source":  "MalwareBazaar"
+                   },
+                   {
+                       "sha256":  "6F6FFF30CA8A1A44EE1DF1D6DAC93313B27ABA094DFF64F65B304D45F0AF5849",
+                       "family":  "AgentTesla",
+                       "severity":  "Critical",
+                       "class":  "virus",
+                       "evidence":  "MalwareBazaar IOC: AgentTesla. First seen: 2026-05-27 12:12:59 UTC.",
+                       "source":  "MalwareBazaar"
+                   },
+                   {
+                       "sha256":  "76E089A21B93F2349CA1DACFD8D4FAE4B57702F302103A83CA7C0D988991100E",
+                       "family":  "AgentTesla",
+                       "severity":  "Critical",
+                       "class":  "virus",
+                       "evidence":  "MalwareBazaar IOC: AgentTesla. First seen: 2026-05-27 11:58:19 UTC.",
+                       "source":  "MalwareBazaar"
+                   },
+                   {
+                       "sha256":  "5E3D464D7841CA9726397ABB1C1D2FEAA353B5E79061ED57AA08E9D57B64F7A6",
+                       "family":  "AgentTesla",
+                       "severity":  "Critical",
+                       "class":  "virus",
+                       "evidence":  "MalwareBazaar IOC: AgentTesla. First seen: 2026-05-27 08:12:21 UTC.",
+                       "source":  "MalwareBazaar"
+                   },
+                   {
+                       "sha256":  "77081FC9249FB2D3781DE951DFCCFC03B87F1BA3AC303E33C3DE8504D31832F0",
+                       "family":  "AgentTesla",
+                       "severity":  "Critical",
+                       "class":  "virus",
+                       "evidence":  "MalwareBazaar IOC: AgentTesla. First seen: 2026-05-27 06:56:20 UTC.",
+                       "source":  "MalwareBazaar"
+                   },
+                   {
+                       "sha256":  "95CB211A7DB0F30AB7F2F91BD1C3AEB6D57402A12C91832F224DCD9949FF123B",
+                       "family":  "AgentTesla",
+                       "severity":  "Critical",
+                       "class":  "virus",
+                       "evidence":  "MalwareBazaar IOC: AgentTesla. First seen: 2026-05-27 06:55:48 UTC.",
+                       "source":  "MalwareBazaar"
+                   },
+                   {
+                       "sha256":  "4916E7D8238C785CEB0044785F2F23FF47E27EC03264BC042DBDF6B2BCC7520F",
+                       "family":  "AgentTesla",
+                       "severity":  "Critical",
+                       "class":  "virus",
+                       "evidence":  "MalwareBazaar IOC: AgentTesla. First seen: 2026-05-27 06:52:23 UTC.",
+                       "source":  "MalwareBazaar"
+                   },
+                   {
+                       "sha256":  "A0A891123AF74EA1F6E4508BA6166D22FD0777287A4DF30C98B78155B843D9BF",
+                       "family":  "AgentTesla",
+                       "severity":  "Critical",
+                       "class":  "virus",
+                       "evidence":  "MalwareBazaar IOC: AgentTesla. First seen: 2026-05-26 13:21:35 UTC.",
+                       "source":  "MalwareBazaar"
+                   },
+                   {
+                       "sha256":  "BFC340FABA4A6685EE6FC715E8AE6D43ADD6651934A0F225C013303FC3398EA3",
+                       "family":  "AgentTesla",
+                       "severity":  "Critical",
+                       "class":  "virus",
+                       "evidence":  "MalwareBazaar IOC: AgentTesla. First seen: 2026-05-26 13:04:41 UTC.",
+                       "source":  "MalwareBazaar"
+                   },
+                   {
+                       "sha256":  "FDB7456A43BC3C0296C18043BF32F21B8A29D099F91FB690A6816D202D6AD51A",
+                       "family":  "AgentTesla",
+                       "severity":  "Critical",
+                       "class":  "virus",
+                       "evidence":  "MalwareBazaar IOC: AgentTesla. First seen: 2026-05-26 12:56:27 UTC.",
+                       "source":  "MalwareBazaar"
+                   },
+                   {
+                       "sha256":  "3EE1860C0F5353263B70752681BD78872A5B9ABF642B93669993F28F83933215",
+                       "family":  "AgentTesla",
+                       "severity":  "Critical",
+                       "class":  "virus",
+                       "evidence":  "MalwareBazaar IOC: AgentTesla. First seen: 2026-05-26 12:56:00 UTC.",
+                       "source":  "MalwareBazaar"
+                   },
+                   {
+                       "sha256":  "6BD7207841FAD8F065AE5EA7F71082E4625EBBACBFBD5C836C88A12024C379FB",
+                       "family":  "AgentTesla",
+                       "severity":  "Critical",
+                       "class":  "virus",
+                       "evidence":  "MalwareBazaar IOC: AgentTesla. First seen: 2026-05-26 08:45:58 UTC.",
+                       "source":  "MalwareBazaar"
+                   },
+                   {
+                       "sha256":  "CCEFCA3DADEB0DECF23622014CF1F40C5AB762CD7D45B8F88F86C4C17E7E6263",
+                       "family":  "AgentTesla",
+                       "severity":  "Critical",
+                       "class":  "virus",
+                       "evidence":  "MalwareBazaar IOC: AgentTesla. First seen: 2026-05-26 08:43:22 UTC.",
+                       "source":  "MalwareBazaar"
+                   },
+                   {
+                       "sha256":  "3420EE11371C89745534A0C17F93FBE3B11991C2CC109B2F33AE9A2A8BFC8141",
+                       "family":  "AgentTesla",
+                       "severity":  "Critical",
+                       "class":  "virus",
+                       "evidence":  "MalwareBazaar IOC: AgentTesla. First seen: 2026-05-26 07:09:54 UTC.",
+                       "source":  "MalwareBazaar"
+                   },
+                   {
+                       "sha256":  "485F73AFF7BA767B4CA18F63E1B271E0DBB603F4DBB082AA37BA9E3A72ED8AA0",
+                       "family":  "AgentTesla",
+                       "severity":  "Critical",
+                       "class":  "virus",
+                       "evidence":  "MalwareBazaar IOC: AgentTesla. First seen: 2026-05-26 06:49:22 UTC.",
+                       "source":  "MalwareBazaar"
+                   },
+                   {
+                       "sha256":  "387DA5EDF39457B69F654637FEB52E35BE921CE99E7B5F39EBDBCAF77637F61C",
+                       "family":  "AgentTesla",
+                       "severity":  "Critical",
+                       "class":  "virus",
+                       "evidence":  "MalwareBazaar IOC: AgentTesla. First seen: 2026-05-26 06:47:55 UTC.",
+                       "source":  "MalwareBazaar"
+                   },
+                   {
+                       "sha256":  "110753D68AEE76F03897DBF55014FE5F7AF90FCA0B0110BA4139CA6B4185EC2A",
+                       "family":  "AgentTesla",
+                       "severity":  "Critical",
+                       "class":  "virus",
+                       "evidence":  "MalwareBazaar IOC: AgentTesla. First seen: 2026-05-25 09:10:41 UTC.",
+                       "source":  "MalwareBazaar"
+                   },
+                   {
+                       "sha256":  "077CF7E960538D149805BBDD671B81ADE5DF12E58B66C1BCACDD4380A1711B98",
+                       "family":  "AgentTesla",
+                       "severity":  "Critical",
+                       "class":  "virus",
+                       "evidence":  "MalwareBazaar IOC: AgentTesla. First seen: 2026-05-25 09:10:33 UTC.",
+                       "source":  "MalwareBazaar"
+                   },
+                   {
+                       "sha256":  "FBB00701CA21983B5245D21A46F1F86B9C89659FCA3629BD3514819EB92EA53C",
+                       "family":  "AgentTesla",
+                       "severity":  "Critical",
+                       "class":  "virus",
+                       "evidence":  "MalwareBazaar IOC: AgentTesla. First seen: 2026-05-25 09:08:50 UTC.",
+                       "source":  "MalwareBazaar"
+                   },
+                   {
+                       "sha256":  "B586710DA7AEB32217A3D2C138FC085A0EF2CB50C7A7206F94FB9877D688B521",
+                       "family":  "AgentTesla",
+                       "severity":  "Critical",
+                       "class":  "virus",
+                       "evidence":  "MalwareBazaar IOC: AgentTesla. First seen: 2026-05-25 06:38:18 UTC.",
+                       "source":  "MalwareBazaar"
+                   },
                    {
                        "sha256":  "4BF14434EF61C6DA79D3E5E4EA7831A4E5F0A2769CCCDB41DDCC7CA0920E640A",
                        "family":  "AgentTesla",
@@ -7755,251 +8003,291 @@
                        "source":  "MalwareBazaar"
                    },
                    {
-                       "sha256":  "D8B8B5072F8E71F1A64CC49A184B21CC696E1F66F43AF8CB0B978338395DB263",
-                       "family":  "AgentTesla",
+                       "sha256":  "76204EE3FE474906B8B47DC349BC44041EE68FC524D746A26E11350A7E432988",
+                       "family":  "AsyncRAT",
                        "severity":  "Critical",
                        "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: AgentTesla. First seen: 2026-03-06 15:06:14 UTC.",
+                       "evidence":  "MalwareBazaar IOC: AsyncRAT. First seen: 2026-05-28 11:53:14 UTC.",
                        "source":  "MalwareBazaar"
                    },
                    {
-                       "sha256":  "1907F5AABF118DD685F88DB5564E4ACCC4C0934725909196D79704F2FFA0F192",
-                       "family":  "AgentTesla",
+                       "sha256":  "C3693A465B935CE368769F456942FBA955512CF77A421DB5BDA2A5F4EDBD117E",
+                       "family":  "AsyncRAT",
                        "severity":  "Critical",
                        "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: AgentTesla. First seen: 2026-03-06 15:02:28 UTC.",
+                       "evidence":  "MalwareBazaar IOC: AsyncRAT. First seen: 2026-05-27 06:24:43 UTC.",
                        "source":  "MalwareBazaar"
                    },
                    {
-                       "sha256":  "69D0DC781E1674538B7FF6D180DC117C5FBCD154745B5642A26ACD5DAE2A2C4A",
-                       "family":  "AgentTesla",
+                       "sha256":  "F8DD628D4F6675854F25EEDAD9480EF52B90AAB6AF6E207283FC909650F73E55",
+                       "family":  "AsyncRAT",
                        "severity":  "Critical",
                        "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: AgentTesla. First seen: 2026-03-06 15:01:13 UTC.",
+                       "evidence":  "MalwareBazaar IOC: AsyncRAT. First seen: 2026-05-27 04:13:48 UTC.",
                        "source":  "MalwareBazaar"
                    },
                    {
-                       "sha256":  "CB2A33063CC222AF874FBD8992A6501158674CF1228BC71A74D7D8B649E2728D",
-                       "family":  "AgentTesla",
+                       "sha256":  "29FD20C5322714A7735311EE9E9D62B0E8CF4910F97211C447BCF6C20500A384",
+                       "family":  "AsyncRAT",
                        "severity":  "Critical",
                        "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: AgentTesla. First seen: 2026-03-06 14:57:21 UTC.",
+                       "evidence":  "MalwareBazaar IOC: AsyncRAT. First seen: 2026-05-26 18:25:16 UTC.",
                        "source":  "MalwareBazaar"
                    },
                    {
-                       "sha256":  "7816DA1A3BD1EA03E6607B8DD6B7EAE59F4FB9A907A760E5B43B27F1DC3A6D32",
-                       "family":  "AgentTesla",
+                       "sha256":  "ADA3A2598DC763B860C98236F6FF09F8BE2890DA1C5FB53539A6D19B065D9620",
+                       "family":  "AsyncRAT",
                        "severity":  "Critical",
                        "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: AgentTesla. First seen: 2026-03-06 14:55:50 UTC.",
+                       "evidence":  "MalwareBazaar IOC: AsyncRAT. First seen: 2026-05-26 12:37:21 UTC.",
                        "source":  "MalwareBazaar"
                    },
                    {
-                       "sha256":  "F9EC4A38CE7CFEABF581DAB7D37CC517D87D43D517C5DED00B333889241BECCF",
-                       "family":  "AgentTesla",
+                       "sha256":  "F407133C05F481C19C4715C2A8A967A7C6EFA03109FE21F768338FA085F80B17",
+                       "family":  "AsyncRAT",
                        "severity":  "Critical",
                        "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: AgentTesla. First seen: 2026-03-06 14:35:20 UTC.",
+                       "evidence":  "MalwareBazaar IOC: AsyncRAT. First seen: 2026-05-25 04:20:33 UTC.",
                        "source":  "MalwareBazaar"
                    },
                    {
-                       "sha256":  "82856BE3DE7D1E41E0541975C9C67547D5D5B35F8C07F22F7C4E6BEF4B17916E",
-                       "family":  "AgentTesla",
+                       "sha256":  "7B8787D64D8A0349BB302FCA1A76267DE0D2273DEB069016C2C019271CB8115D",
+                       "family":  "AsyncRAT",
                        "severity":  "Critical",
                        "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: AgentTesla. First seen: 2026-03-06 14:33:57 UTC.",
+                       "evidence":  "MalwareBazaar IOC: AsyncRAT. First seen: 2026-05-25 04:07:06 UTC.",
                        "source":  "MalwareBazaar"
                    },
                    {
-                       "sha256":  "330AA9B600D16462D89F74F06FA2F8B1933A0F62A3221E1043720FDBC34C57F4",
-                       "family":  "AgentTesla",
+                       "sha256":  "7618127C48A459913418D5446D3D2922B8F6D9F132FAD338829D7E1BD07FF08D",
+                       "family":  "AsyncRAT",
                        "severity":  "Critical",
                        "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: AgentTesla. First seen: 2026-03-06 14:33:14 UTC.",
+                       "evidence":  "MalwareBazaar IOC: AsyncRAT. First seen: 2026-05-24 07:38:00 UTC.",
                        "source":  "MalwareBazaar"
                    },
                    {
-                       "sha256":  "7B57E193677DA69C6AC93C7D2E2DFDAFAB85037AB0272C74FC4D22B0014FF893",
-                       "family":  "AgentTesla",
+                       "sha256":  "F1DE64BA6C22C6C873FD7C965EC1E2D70F385EF4AE051BE4B8D3D6FC13DAF5AE",
+                       "family":  "AsyncRAT",
                        "severity":  "Critical",
                        "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: AgentTesla. First seen: 2026-03-06 14:32:55 UTC.",
+                       "evidence":  "MalwareBazaar IOC: AsyncRAT. First seen: 2026-05-24 07:33:55 UTC.",
                        "source":  "MalwareBazaar"
                    },
                    {
-                       "sha256":  "A98E7500E1738805441C9C5B188276CD889B0A8BAE8CACCD94B3C39AA53D9BC6",
-                       "family":  "AgentTesla",
+                       "sha256":  "5680AD54E90963F572F02CF77EFC673828D5992BB8A935E83015EF26DAF8D9B6",
+                       "family":  "AsyncRAT",
                        "severity":  "Critical",
                        "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: AgentTesla. First seen: 2026-03-06 13:55:01 UTC.",
+                       "evidence":  "MalwareBazaar IOC: AsyncRAT. First seen: 2026-05-24 07:32:24 UTC.",
                        "source":  "MalwareBazaar"
                    },
                    {
-                       "sha256":  "04D2C4A9718298C1E38BE2061C3E5AFC958532162ABA22020C189C98A6594726",
-                       "family":  "AgentTesla",
+                       "sha256":  "F2A97F75E5865650411E8F0044D0C4899D7A2B782D479E1799E54C96BA13292F",
+                       "family":  "AsyncRAT",
                        "severity":  "Critical",
                        "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: AgentTesla. First seen: 2026-03-06 13:54:55 UTC.",
+                       "evidence":  "MalwareBazaar IOC: AsyncRAT. First seen: 2026-05-24 07:10:40 UTC.",
                        "source":  "MalwareBazaar"
                    },
                    {
-                       "sha256":  "5F47F9EC37932CE319CB40F451BE31A9C62500DAC31B79D16E5970D32612C094",
-                       "family":  "AgentTesla",
+                       "sha256":  "AD48BF241EB4A19EE3194F499B4AE2426E708D25765681040ADAF0D0C51E8EB9",
+                       "family":  "AsyncRAT",
                        "severity":  "Critical",
                        "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: AgentTesla. First seen: 2026-03-06 13:54:40 UTC.",
+                       "evidence":  "MalwareBazaar IOC: AsyncRAT. First seen: 2026-05-24 06:24:48 UTC.",
                        "source":  "MalwareBazaar"
                    },
                    {
-                       "sha256":  "046EF1C213AAE4A5A7758AF1E1EBB04EC8500ED1C1FF6ACA4D4C91ACE06602E0",
-                       "family":  "AgentTesla",
+                       "sha256":  "8AA68C1EC2AEB119D08CCC57C8189F7F5E46EDA50B7D22CF0134810ADC34FDA9",
+                       "family":  "AsyncRAT",
                        "severity":  "Critical",
                        "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: AgentTesla. First seen: 2026-03-06 13:50:18 UTC.",
+                       "evidence":  "MalwareBazaar IOC: AsyncRAT. First seen: 2026-05-24 06:23:52 UTC.",
                        "source":  "MalwareBazaar"
                    },
                    {
-                       "sha256":  "42C7650C2EBBFD5690624483DC4E46EC7BD941A0FFC1E3C380F468EC12317162",
-                       "family":  "AgentTesla",
+                       "sha256":  "798177A829AC2C218290FA5F9A431511634994CCEBADC261E6975A8AE50D2895",
+                       "family":  "AsyncRAT",
                        "severity":  "Critical",
                        "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: AgentTesla. First seen: 2026-03-06 13:50:14 UTC.",
+                       "evidence":  "MalwareBazaar IOC: AsyncRAT. First seen: 2026-05-24 06:22:42 UTC.",
                        "source":  "MalwareBazaar"
                    },
                    {
-                       "sha256":  "1ECC3C1FB0C32C448DEB5D4B5F6058D9A24B985770C0584E8AFA56C44E57E7A0",
-                       "family":  "AgentTesla",
+                       "sha256":  "8D442884095406939C783E9C1F2B872026643A3BDD21545748E87033AA88A855",
+                       "family":  "AsyncRAT",
                        "severity":  "Critical",
                        "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: AgentTesla. First seen: 2026-03-06 11:49:58 UTC.",
+                       "evidence":  "MalwareBazaar IOC: AsyncRAT. First seen: 2026-05-24 06:22:09 UTC.",
                        "source":  "MalwareBazaar"
                    },
                    {
-                       "sha256":  "93E182779E1F7297CC5239F79E12A70C532F3817EB325F8841957E27992FACB1",
-                       "family":  "AgentTesla",
+                       "sha256":  "A61A75766BC0B06141616FC7BC4A860D61541A6667B1E13D4802FDE1E0EA90E1",
+                       "family":  "AsyncRAT",
                        "severity":  "Critical",
                        "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: AgentTesla. First seen: 2026-03-05 12:29:18 UTC.",
+                       "evidence":  "MalwareBazaar IOC: AsyncRAT. First seen: 2026-05-24 06:19:57 UTC.",
                        "source":  "MalwareBazaar"
                    },
                    {
-                       "sha256":  "44FC7D02421B1133674F931B5F6C25B161524D9ED48238FD4A1097033D9754C9",
-                       "family":  "AgentTesla",
+                       "sha256":  "5EA4EB1E45AEC855D52A9A2AA014D285B14260A16422F53FA70DEA6E091122CC",
+                       "family":  "AsyncRAT",
                        "severity":  "Critical",
                        "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: AgentTesla. First seen: 2026-03-05 08:07:12 UTC.",
+                       "evidence":  "MalwareBazaar IOC: AsyncRAT. First seen: 2026-05-24 06:11:04 UTC.",
                        "source":  "MalwareBazaar"
                    },
                    {
-                       "sha256":  "4F0F7232DC36C768CD481EE494ACC71C1DE3581E46776D2AB6707EF8B225A3E6",
-                       "family":  "AgentTesla",
+                       "sha256":  "FCFF442E5B8F2C214CBCC71B5EC5F0AAFA345D09AEE584654F2BD1015BDC6E00",
+                       "family":  "AsyncRAT",
                        "severity":  "Critical",
                        "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: AgentTesla. First seen: 2026-03-05 08:06:50 UTC.",
+                       "evidence":  "MalwareBazaar IOC: AsyncRAT. First seen: 2026-05-24 05:49:56 UTC.",
                        "source":  "MalwareBazaar"
                    },
                    {
-                       "sha256":  "C9C2EEBF486939CA6C07F8B6F19180C102C00CED204566C163ED872F08AAD5A2",
-                       "family":  "AgentTesla",
+                       "sha256":  "A812BB930C3DBD7738E8EB43B5113D0F6D12C41A37A2C69ECCE59F5310A083CA",
+                       "family":  "AsyncRAT",
                        "severity":  "Critical",
                        "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: AgentTesla. First seen: 2026-03-05 08:05:41 UTC.",
+                       "evidence":  "MalwareBazaar IOC: AsyncRAT. First seen: 2026-05-24 05:49:54 UTC.",
                        "source":  "MalwareBazaar"
                    },
                    {
-                       "sha256":  "DAE6DBC04D1C0CBA5999569B881B2975AEA043744CFC418DF9DD0F508C322423",
-                       "family":  "AgentTesla",
+                       "sha256":  "657C2518DC1D294CBF1FFEB4CB53AF7CDF5584346A55FED926613083C8EE5A6E",
+                       "family":  "AsyncRAT",
                        "severity":  "Critical",
                        "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: AgentTesla. First seen: 2026-03-05 08:05:19 UTC.",
+                       "evidence":  "MalwareBazaar IOC: AsyncRAT. First seen: 2026-05-24 05:42:29 UTC.",
                        "source":  "MalwareBazaar"
                    },
                    {
-                       "sha256":  "87C1E37E1B037A033C057B09DEAB5235C1FF15FF4AD4DFEA750DE165D1637D33",
-                       "family":  "AgentTesla",
+                       "sha256":  "B90A9744B36EE6A1F179374B4B83DC6C888D02407FA76669535EA7F742707B08",
+                       "family":  "AsyncRAT",
                        "severity":  "Critical",
                        "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: AgentTesla. First seen: 2026-03-05 08:04:34 UTC.",
+                       "evidence":  "MalwareBazaar IOC: AsyncRAT. First seen: 2026-05-24 05:11:10 UTC.",
                        "source":  "MalwareBazaar"
                    },
                    {
-                       "sha256":  "3E1426FBB5C016A4CC2C5B9D2FE63514202E49B4B90C10DA55C7018CA9662EA9",
-                       "family":  "AgentTesla",
+                       "sha256":  "5A18DDE1C24EC62F512DDCE23FF3DAC4F3BD08D0A0089C046541132A4F948037",
+                       "family":  "AsyncRAT",
                        "severity":  "Critical",
                        "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: AgentTesla. First seen: 2026-03-05 08:03:52 UTC.",
+                       "evidence":  "MalwareBazaar IOC: AsyncRAT. First seen: 2026-05-24 05:07:58 UTC.",
                        "source":  "MalwareBazaar"
                    },
                    {
-                       "sha256":  "1092D2366503E129AF43F056AEB668955A0FF7989FE95B1223DF8FADF1800CFC",
-                       "family":  "AgentTesla",
+                       "sha256":  "8856E1DB38185CE11991C59BA6C03C83A665AE7966E43CA492DFF3D6064B478B",
+                       "family":  "AsyncRAT",
                        "severity":  "Critical",
                        "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: AgentTesla. First seen: 2026-03-05 08:03:30 UTC.",
+                       "evidence":  "MalwareBazaar IOC: AsyncRAT. First seen: 2026-05-24 04:56:36 UTC.",
                        "source":  "MalwareBazaar"
                    },
                    {
-                       "sha256":  "A5309F6E9B7D461A02D872F11D0A256D679BD49BFF2F770F240399165E2AE052",
-                       "family":  "AgentTesla",
+                       "sha256":  "4F6384FF92B9556D23EB0AD8ABBC695F6E3C1CDDBC4631EF4BEB53B6D360B360",
+                       "family":  "AsyncRAT",
                        "severity":  "Critical",
                        "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: AgentTesla. First seen: 2026-03-05 08:02:25 UTC.",
+                       "evidence":  "MalwareBazaar IOC: AsyncRAT. First seen: 2026-05-24 04:51:12 UTC.",
                        "source":  "MalwareBazaar"
                    },
                    {
-                       "sha256":  "09FE0615FE46CF89DBF2DE5AF080ABE6C58242567E2E7086AB8C4B4C5F645E16",
-                       "family":  "AgentTesla",
+                       "sha256":  "E783518120CD5CE9EE99F183CE92B9A94456BA8423B4D3FBB95690107D256385",
+                       "family":  "AsyncRAT",
                        "severity":  "Critical",
                        "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: AgentTesla. First seen: 2026-03-05 08:02:05 UTC.",
+                       "evidence":  "MalwareBazaar IOC: AsyncRAT. First seen: 2026-05-24 02:01:45 UTC.",
                        "source":  "MalwareBazaar"
                    },
                    {
-                       "sha256":  "C9ACCE520B9803DC21D0CD1E163B99E94A40F2FED338B879D63C637AAF4752EE",
-                       "family":  "AgentTesla",
+                       "sha256":  "073E89FB494DC94B569A6F7D840931605B06576E936284BC315C9F3CF03788C9",
+                       "family":  "AsyncRAT",
                        "severity":  "Critical",
                        "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: AgentTesla. First seen: 2026-03-05 07:58:42 UTC.",
+                       "evidence":  "MalwareBazaar IOC: AsyncRAT. First seen: 2026-05-24 01:53:05 UTC.",
                        "source":  "MalwareBazaar"
                    },
                    {
-                       "sha256":  "42FE6FC75209A3DFA01A956AFD9A7C83F5627DCCCE3B2C77BEE9A2156DF4AF81",
-                       "family":  "AgentTesla",
+                       "sha256":  "31A2D8711FEC6B73142756E0FFEFD5A9485A86E06417E756D95E5BFAEB72B3CB",
+                       "family":  "AsyncRAT",
                        "severity":  "Critical",
                        "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: AgentTesla. First seen: 2026-03-05 02:11:20 UTC.",
+                       "evidence":  "MalwareBazaar IOC: AsyncRAT. First seen: 2026-05-23 20:13:21 UTC.",
                        "source":  "MalwareBazaar"
                    },
                    {
-                       "sha256":  "A94AEB91F6457A1911D894BAF0135A27BB3A3B721BD5F96C70E8514F898397B7",
-                       "family":  "AgentTesla",
+                       "sha256":  "8356B227590D90EAE41ED3B9E503EF92C09BE93314910F743390AA1F8BE6ED07",
+                       "family":  "AsyncRAT",
                        "severity":  "Critical",
                        "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: AgentTesla. First seen: 2026-03-04 19:30:05 UTC.",
+                       "evidence":  "MalwareBazaar IOC: AsyncRAT. First seen: 2026-05-23 20:04:46 UTC.",
                        "source":  "MalwareBazaar"
                    },
                    {
-                       "sha256":  "B94E3E55ACB1BA83308AD3298F4ECDA656E87A6BC045B1FD9241BC394A64F258",
-                       "family":  "AgentTesla",
+                       "sha256":  "5EA18C043CAB9C3B175789BAC804573F11C984E3625A54A2F452A3D3383527F1",
+                       "family":  "AsyncRAT",
                        "severity":  "Critical",
                        "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: AgentTesla. First seen: 2026-03-04 14:03:20 UTC.",
+                       "evidence":  "MalwareBazaar IOC: AsyncRAT. First seen: 2026-05-23 20:03:00 UTC.",
                        "source":  "MalwareBazaar"
                    },
                    {
-                       "sha256":  "AF29BD6084BFD4C06F77B56A78670409BE14CD268204C521C7E450BF567AC4EF",
-                       "family":  "AgentTesla",
+                       "sha256":  "53EFAFFB26FF1A404C68E769B402CFD492FE6BFBC13C82EE0BC82AE78969295C",
+                       "family":  "AsyncRAT",
                        "severity":  "Critical",
                        "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: AgentTesla. First seen: 2026-03-04 10:15:13 UTC.",
+                       "evidence":  "MalwareBazaar IOC: AsyncRAT. First seen: 2026-05-23 18:36:39 UTC.",
                        "source":  "MalwareBazaar"
                    },
                    {
-                       "sha256":  "47D4C1B4495893F20967CBDC0383E152AB10043CDE8D92F6D0D3519C95751FF1",
-                       "family":  "AgentTesla",
+                       "sha256":  "07506B483A2FE1276FE390FCD462B4ED91EBC28B7BE39830B03771E998E2A6F1",
+                       "family":  "AsyncRAT",
                        "severity":  "Critical",
                        "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: AgentTesla. First seen: 2026-03-04 10:14:45 UTC.",
+                       "evidence":  "MalwareBazaar IOC: AsyncRAT. First seen: 2026-05-23 18:32:03 UTC.",
+                       "source":  "MalwareBazaar"
+                   },
+                   {
+                       "sha256":  "246A980B622B251AC79105DCEDB1371747AB14E4F57F28923956D713D87DA671",
+                       "family":  "AsyncRAT",
+                       "severity":  "Critical",
+                       "class":  "virus",
+                       "evidence":  "MalwareBazaar IOC: AsyncRAT. First seen: 2026-05-23 17:45:19 UTC.",
+                       "source":  "MalwareBazaar"
+                   },
+                   {
+                       "sha256":  "7A95E73032CB2CD22407C35CDD6B04B77DD9735C2B1931E9AF03F526DC75D7C9",
+                       "family":  "AsyncRAT",
+                       "severity":  "Critical",
+                       "class":  "virus",
+                       "evidence":  "MalwareBazaar IOC: AsyncRAT. First seen: 2026-05-23 12:05:30 UTC.",
+                       "source":  "MalwareBazaar"
+                   },
+                   {
+                       "sha256":  "EA54271DB6FBFE6616049DC6855A18BF4A957EA9156502E65766782159F92EAD",
+                       "family":  "AsyncRAT",
+                       "severity":  "Critical",
+                       "class":  "virus",
+                       "evidence":  "MalwareBazaar IOC: AsyncRAT. First seen: 2026-05-23 12:03:39 UTC.",
+                       "source":  "MalwareBazaar"
+                   },
+                   {
+                       "sha256":  "057CE719D259F34687589C6A31498B1EDBDB84AF194E6C7C0E5681497699E24A",
+                       "family":  "AsyncRAT",
+                       "severity":  "Critical",
+                       "class":  "virus",
+                       "evidence":  "MalwareBazaar IOC: AsyncRAT. First seen: 2026-05-23 09:28:46 UTC.",
+                       "source":  "MalwareBazaar"
+                   },
+                   {
+                       "sha256":  "ABF498A10E71A75DC718F6A899C8B1E9A3785D16EF3561E7C3A5C035F1DFD485",
+                       "family":  "AsyncRAT",
+                       "severity":  "Critical",
+                       "class":  "virus",
+                       "evidence":  "MalwareBazaar IOC: AsyncRAT. First seen: 2026-05-22 17:49:20 UTC.",
                        "source":  "MalwareBazaar"
                    },
                    {
@@ -15715,294 +16003,6 @@
                        "source":  "MalwareBazaar"
                    },
                    {
-                       "sha256":  "478B08749DD341444A0A859882C21BF63F2BD3E7EFBE4DEF6E2F02EA6D4D8A53",
-                       "family":  "AsyncRAT",
-                       "severity":  "Critical",
-                       "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: AsyncRAT. First seen: 2026-01-04 17:15:48 UTC.",
-                       "source":  "MalwareBazaar"
-                   },
-                   {
-                       "sha256":  "1424940EC6AF15C735A6A67737D7C7C5851A905C2E98F06646D6564B9BF55D34",
-                       "family":  "AsyncRAT",
-                       "severity":  "Critical",
-                       "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: AsyncRAT. First seen: 2026-01-04 16:58:07 UTC.",
-                       "source":  "MalwareBazaar"
-                   },
-                   {
-                       "sha256":  "34CF1F43587E6A9673BA90C0BB5D9B449607D6396A59035FD925B6B67FE6A530",
-                       "family":  "AsyncRAT",
-                       "severity":  "Critical",
-                       "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: AsyncRAT. First seen: 2026-01-04 16:56:06 UTC.",
-                       "source":  "MalwareBazaar"
-                   },
-                   {
-                       "sha256":  "4E6B67E845D6D452927D6FB370B806D0D19A1362D5ABB4826544B49E91EE15E7",
-                       "family":  "AsyncRAT",
-                       "severity":  "Critical",
-                       "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: AsyncRAT. First seen: 2026-01-04 16:54:36 UTC.",
-                       "source":  "MalwareBazaar"
-                   },
-                   {
-                       "sha256":  "5633B7D58DCFCAE24F9DDCF10010CE9D4DDCE76A4A679298374DBF9588BDC1AD",
-                       "family":  "AsyncRAT",
-                       "severity":  "Critical",
-                       "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: AsyncRAT. First seen: 2026-01-04 16:52:23 UTC.",
-                       "source":  "MalwareBazaar"
-                   },
-                   {
-                       "sha256":  "687E30EE1C9066769481F88EE8468C8A1703032268F14C84346C49641AC5B5C3",
-                       "family":  "AsyncRAT",
-                       "severity":  "Critical",
-                       "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: AsyncRAT. First seen: 2026-01-04 16:50:25 UTC.",
-                       "source":  "MalwareBazaar"
-                   },
-                   {
-                       "sha256":  "857E010D97EE77F3F2829AC77E754A32993DE7C325D5D40EB064DEE62FF7C9E4",
-                       "family":  "AsyncRAT",
-                       "severity":  "Critical",
-                       "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: AsyncRAT. First seen: 2026-01-04 16:48:59 UTC.",
-                       "source":  "MalwareBazaar"
-                   },
-                   {
-                       "sha256":  "703F5D89F887E05CD6D84B29D7C344844B263B1B570D8470E05E688389320464",
-                       "family":  "AsyncRAT",
-                       "severity":  "Critical",
-                       "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: AsyncRAT. First seen: 2026-01-04 16:11:06 UTC.",
-                       "source":  "MalwareBazaar"
-                   },
-                   {
-                       "sha256":  "D9809FCECE6925ECAE2FCD77F50FEF52A93BE62B9D2F464A5EF27CFA59C604D0",
-                       "family":  "AsyncRAT",
-                       "severity":  "Critical",
-                       "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: AsyncRAT. First seen: 2026-01-04 16:10:24 UTC.",
-                       "source":  "MalwareBazaar"
-                   },
-                   {
-                       "sha256":  "DA268B5F413AC53F0F9488912CFE693FA15A50B0C7635B64DBBFEF2325E44A4B",
-                       "family":  "AsyncRAT",
-                       "severity":  "Critical",
-                       "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: AsyncRAT. First seen: 2026-01-04 13:06:18 UTC.",
-                       "source":  "MalwareBazaar"
-                   },
-                   {
-                       "sha256":  "4DE054E1E7AB2A58F115CB769EB333352B67F182725979A7DD79F5F0C2FA12D9",
-                       "family":  "AsyncRAT",
-                       "severity":  "Critical",
-                       "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: AsyncRAT. First seen: 2026-01-03 20:19:28 UTC.",
-                       "source":  "MalwareBazaar"
-                   },
-                   {
-                       "sha256":  "C5ED92BD459ABB4FD92B3DE50B9B60E38622A40E014FAAEC617C5DE9D9E7CC60",
-                       "family":  "AsyncRAT",
-                       "severity":  "Critical",
-                       "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: AsyncRAT. First seen: 2026-01-03 16:34:27 UTC.",
-                       "source":  "MalwareBazaar"
-                   },
-                   {
-                       "sha256":  "9A671BE441A536D6A9FD9D01AF3D0E5BDDD98F6237A1E8F6CB651E4DA2EFA0C4",
-                       "family":  "AsyncRAT",
-                       "severity":  "Critical",
-                       "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: AsyncRAT. First seen: 2026-01-03 16:00:35 UTC.",
-                       "source":  "MalwareBazaar"
-                   },
-                   {
-                       "sha256":  "5E1458A02DE57E6A1BA403A11B0A857AF2146DDA385E893BB6F4EA5A0E33FE68",
-                       "family":  "AsyncRAT",
-                       "severity":  "Critical",
-                       "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: AsyncRAT. First seen: 2026-01-03 14:18:38 UTC.",
-                       "source":  "MalwareBazaar"
-                   },
-                   {
-                       "sha256":  "74C70FFF02B4385B2234C5EF330FCFB498D713FFB355C699F1446E5D5F3D8D6E",
-                       "family":  "AsyncRAT",
-                       "severity":  "Critical",
-                       "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: AsyncRAT. First seen: 2026-01-03 13:33:55 UTC.",
-                       "source":  "MalwareBazaar"
-                   },
-                   {
-                       "sha256":  "3FB74F626EE600CD36BE84546DBEA162456581FAE1F9A512209E9BBDB0EC29C8",
-                       "family":  "AsyncRAT",
-                       "severity":  "Critical",
-                       "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: AsyncRAT. First seen: 2026-01-03 12:44:07 UTC.",
-                       "source":  "MalwareBazaar"
-                   },
-                   {
-                       "sha256":  "9A67D444BC9C174F635F90E5AB828FF9961294B0288C9FA4DBC5E1FC839FB820",
-                       "family":  "AsyncRAT",
-                       "severity":  "Critical",
-                       "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: AsyncRAT. First seen: 2026-01-03 12:43:32 UTC.",
-                       "source":  "MalwareBazaar"
-                   },
-                   {
-                       "sha256":  "19678F14FA38F8F60CB942880BE3BDD07F9A47494D641495363E80B4100C29BB",
-                       "family":  "AsyncRAT",
-                       "severity":  "Critical",
-                       "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: AsyncRAT. First seen: 2026-01-03 06:40:04 UTC.",
-                       "source":  "MalwareBazaar"
-                   },
-                   {
-                       "sha256":  "523DDB2AD8A21458742B2139F96DCF3D3ACC34372EE8E0D4AC6ED44A94A3F5B9",
-                       "family":  "AsyncRAT",
-                       "severity":  "Critical",
-                       "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: AsyncRAT. First seen: 2026-01-03 01:52:56 UTC.",
-                       "source":  "MalwareBazaar"
-                   },
-                   {
-                       "sha256":  "2266F257553D0711C81BF5BB8DE3D9359053E6DDBAE618D12F6BEE9358C2F742",
-                       "family":  "AsyncRAT",
-                       "severity":  "Critical",
-                       "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: AsyncRAT. First seen: 2026-01-02 20:25:20 UTC.",
-                       "source":  "MalwareBazaar"
-                   },
-                   {
-                       "sha256":  "EA1EF7C06B2B284EE94A874A1F661C19740B59248B54213D6B02843585DE5F7C",
-                       "family":  "AsyncRAT",
-                       "severity":  "Critical",
-                       "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: AsyncRAT. First seen: 2026-01-02 16:43:51 UTC.",
-                       "source":  "MalwareBazaar"
-                   },
-                   {
-                       "sha256":  "FE5D99EA2296BA0DF730938BE66F72409D595E8930811EED44AD9B9EC2083006",
-                       "family":  "AsyncRAT",
-                       "severity":  "Critical",
-                       "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: AsyncRAT. First seen: 2026-01-02 13:15:15 UTC.",
-                       "source":  "MalwareBazaar"
-                   },
-                   {
-                       "sha256":  "0D0F4D947FEBB264C4229CC1049CA509B90F170769076325F33688B50E027F15",
-                       "family":  "AsyncRAT",
-                       "severity":  "Critical",
-                       "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: AsyncRAT. First seen: 2026-01-02 12:17:54 UTC.",
-                       "source":  "MalwareBazaar"
-                   },
-                   {
-                       "sha256":  "B2E08ABB29BDB7387887D494FDAFD5C8E8AB7D1ECBB1480A9DCD6331C7CD54C3",
-                       "family":  "AsyncRAT",
-                       "severity":  "Critical",
-                       "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: AsyncRAT. First seen: 2026-01-02 10:30:33 UTC.",
-                       "source":  "MalwareBazaar"
-                   },
-                   {
-                       "sha256":  "D242269E6B4441985892388AD12F4A37A741D42D211F334FF7A8A5870EABD66F",
-                       "family":  "AsyncRAT",
-                       "severity":  "Critical",
-                       "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: AsyncRAT. First seen: 2026-01-02 10:29:28 UTC.",
-                       "source":  "MalwareBazaar"
-                   },
-                   {
-                       "sha256":  "D315C290FC2318B317FB43BF0886C66EEF588ADD7812F77E381BDFEFE0370546",
-                       "family":  "AsyncRAT",
-                       "severity":  "Critical",
-                       "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: AsyncRAT. First seen: 2026-01-02 10:28:32 UTC.",
-                       "source":  "MalwareBazaar"
-                   },
-                   {
-                       "sha256":  "FE26B9F8DE212E81AB6ECE6729B8AD9CAC903EDC4D03DFFCDECDD0B21C931B36",
-                       "family":  "AsyncRAT",
-                       "severity":  "Critical",
-                       "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: AsyncRAT. First seen: 2026-01-02 09:01:10 UTC.",
-                       "source":  "MalwareBazaar"
-                   },
-                   {
-                       "sha256":  "1F37CD2171DF037E8F8C18DE4A69E7AF8900884CDFCCD4FB41888DD9D5E185B1",
-                       "family":  "AsyncRAT",
-                       "severity":  "Critical",
-                       "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: AsyncRAT. First seen: 2026-01-01 18:12:26 UTC.",
-                       "source":  "MalwareBazaar"
-                   },
-                   {
-                       "sha256":  "ECC5329A836676815A3E69C4DC16544E2C4860E3E1FD6E26057E0C77E2571032",
-                       "family":  "AsyncRAT",
-                       "severity":  "Critical",
-                       "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: AsyncRAT. First seen: 2026-01-01 17:57:08 UTC.",
-                       "source":  "MalwareBazaar"
-                   },
-                   {
-                       "sha256":  "F838923D1D78E90DC5CE619D02C4AFD0ABAE854433F9A140063E1E16934ECB1E",
-                       "family":  "AsyncRAT",
-                       "severity":  "Critical",
-                       "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: AsyncRAT. First seen: 2026-01-01 17:24:06 UTC.",
-                       "source":  "MalwareBazaar"
-                   },
-                   {
-                       "sha256":  "5B79BD5CF7FA833DAC927C19E31AD8956F951FA6ABFADA53094F5E99988ADF8A",
-                       "family":  "AsyncRAT",
-                       "severity":  "Critical",
-                       "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: AsyncRAT. First seen: 2026-01-01 16:54:33 UTC.",
-                       "source":  "MalwareBazaar"
-                   },
-                   {
-                       "sha256":  "24D357CC71EC647B58BF02AA3005FF7246B522332D343248B4B56E82F8EF5324",
-                       "family":  "AsyncRAT",
-                       "severity":  "Critical",
-                       "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: AsyncRAT. First seen: 2026-01-01 16:53:50 UTC.",
-                       "source":  "MalwareBazaar"
-                   },
-                   {
-                       "sha256":  "27070550135F980A9585CA41E6B50BE699CFC67FFAA356468A3143CC1F47F344",
-                       "family":  "AsyncRAT",
-                       "severity":  "Critical",
-                       "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: AsyncRAT. First seen: 2026-01-01 16:52:33 UTC.",
-                       "source":  "MalwareBazaar"
-                   },
-                   {
-                       "sha256":  "75A317D6D229FBB1B907714F316FD9C216D64F52EDE192663AE3E056E7DF550C",
-                       "family":  "AsyncRAT",
-                       "severity":  "Critical",
-                       "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: AsyncRAT. First seen: 2026-01-01 16:43:32 UTC.",
-                       "source":  "MalwareBazaar"
-                   },
-                   {
-                       "sha256":  "948DA7E7445902416F717FCAEBD98D1BBAE5601898204B9E3AC26D9853562B01",
-                       "family":  "AsyncRAT",
-                       "severity":  "Critical",
-                       "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: AsyncRAT. First seen: 2026-01-01 11:42:13 UTC.",
-                       "source":  "MalwareBazaar"
-                   },
-                   {
-                       "sha256":  "5B511477942E78F0B4CCD248A31AAE2CF70453DA1EAD4EDF5EE630AF97CBAE90",
-                       "family":  "AsyncRAT",
-                       "severity":  "Critical",
-                       "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: AsyncRAT. First seen: 2026-01-01 10:33:42 UTC.",
-                       "source":  "MalwareBazaar"
-                   },
-                   {
                        "sha256":  "0983A4241DFA150A49256F62C20C35372D44264254859D2F1B21E6B1A22D428C",
                        "family":  "RedLine",
                        "severity":  "Critical",
@@ -18672,6 +18672,38 @@
                        "severity":  "Critical",
                        "class":  "virus",
                        "evidence":  "MalwareBazaar IOC: Raccoon. First seen: 2020-06-30 06:15:19 UTC.",
+                       "source":  "MalwareBazaar"
+                   },
+                   {
+                       "sha256":  "667F1F97D015B53C367E228CCEF93007FE58300260598AFCC85CED93854159C9",
+                       "family":  "NjRAT",
+                       "severity":  "Critical",
+                       "class":  "virus",
+                       "evidence":  "MalwareBazaar IOC: NjRAT. First seen: 2026-05-28 01:31:59 UTC.",
+                       "source":  "MalwareBazaar"
+                   },
+                   {
+                       "sha256":  "A998E142AD51D807C2AEE6D835E12D494AFC93F402559F7BBE0A3B18310F4652",
+                       "family":  "NjRAT",
+                       "severity":  "Critical",
+                       "class":  "virus",
+                       "evidence":  "MalwareBazaar IOC: NjRAT. First seen: 2026-05-24 14:17:29 UTC.",
+                       "source":  "MalwareBazaar"
+                   },
+                   {
+                       "sha256":  "47D7B42AAB30724BF3A1606435A45AEEF2DD24CE8E9D6068CF3E2D859A7AD65F",
+                       "family":  "NjRAT",
+                       "severity":  "Critical",
+                       "class":  "virus",
+                       "evidence":  "MalwareBazaar IOC: NjRAT. First seen: 2026-05-24 06:07:36 UTC.",
+                       "source":  "MalwareBazaar"
+                   },
+                   {
+                       "sha256":  "76C804B973FF4A132220EC7FDEC34400E8365EFFDD9FCD84BFEB71CF2BBA1448",
+                       "family":  "NjRAT",
+                       "severity":  "Critical",
+                       "class":  "virus",
+                       "evidence":  "MalwareBazaar IOC: NjRAT. First seen: 2026-05-24 05:57:31 UTC.",
                        "source":  "MalwareBazaar"
                    },
                    {
@@ -26643,35 +26675,227 @@
                        "source":  "MalwareBazaar"
                    },
                    {
-                       "sha256":  "72F1513B6C29378F8E7CB14A727CCDEA12F1581EBCB84A2A5DD7DA8A2B70CC6D",
-                       "family":  "NjRAT",
+                       "sha256":  "EFF53185BADDF63B12CE35450FB5FF8DD0951C1E561D7E042E8A630EFA28268E",
+                       "family":  "RemcosRAT",
                        "severity":  "Critical",
                        "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: NjRAT. First seen: 2024-12-16 06:18:34 UTC.",
+                       "evidence":  "MalwareBazaar IOC: RemcosRAT. First seen: 2026-05-28 09:52:31 UTC.",
                        "source":  "MalwareBazaar"
                    },
                    {
-                       "sha256":  "BB8065309DB684A81570B42A0BB4B0B160FEA37EB4117D9296FCCB678EA5EC2E",
-                       "family":  "NjRAT",
+                       "sha256":  "E3897708F5A716C87D00866E53985F30E1547A94470A56DE5B786AA6C75B36FF",
+                       "family":  "RemcosRAT",
                        "severity":  "Critical",
                        "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: NjRAT. First seen: 2024-12-16 06:18:27 UTC.",
+                       "evidence":  "MalwareBazaar IOC: RemcosRAT. First seen: 2026-05-28 09:52:28 UTC.",
                        "source":  "MalwareBazaar"
                    },
                    {
-                       "sha256":  "D6471589756F94A0908A7EC9F0E0E98149882CE6C1CF3DA9852DC88FCC3D513D",
-                       "family":  "NjRAT",
+                       "sha256":  "AAA6F56E72D42A67EFED13926146255B2A94B6FE5A6B9FCE2A9B884F73983E6C",
+                       "family":  "RemcosRAT",
                        "severity":  "Critical",
                        "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: NjRAT. First seen: 2024-12-16 06:18:17 UTC.",
+                       "evidence":  "MalwareBazaar IOC: RemcosRAT. First seen: 2026-05-28 09:52:15 UTC.",
                        "source":  "MalwareBazaar"
                    },
                    {
-                       "sha256":  "B88EA99A578D819000485DA4B80EE871488088804481DC91698986C0C90F7C9E",
-                       "family":  "NjRAT",
+                       "sha256":  "A39114844CA4B2554B1F8F48F349E9FACDFB5835C9888F9770B7768E369362F5",
+                       "family":  "RemcosRAT",
                        "severity":  "Critical",
                        "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: NjRAT. First seen: 2024-12-15 05:05:13 UTC.",
+                       "evidence":  "MalwareBazaar IOC: RemcosRAT. First seen: 2026-05-28 09:52:10 UTC.",
+                       "source":  "MalwareBazaar"
+                   },
+                   {
+                       "sha256":  "7542668FBD197FF685A84163B8B5F309BB126035FE69DBC6C548D39D8092022E",
+                       "family":  "RemcosRAT",
+                       "severity":  "Critical",
+                       "class":  "virus",
+                       "evidence":  "MalwareBazaar IOC: RemcosRAT. First seen: 2026-05-28 09:52:08 UTC.",
+                       "source":  "MalwareBazaar"
+                   },
+                   {
+                       "sha256":  "3D2429B694CDB23CF49733BFBFFE193865B4B0CC1AD8C5DFE43AE213AB8D070A",
+                       "family":  "RemcosRAT",
+                       "severity":  "Critical",
+                       "class":  "virus",
+                       "evidence":  "MalwareBazaar IOC: RemcosRAT. First seen: 2026-05-28 09:51:52 UTC.",
+                       "source":  "MalwareBazaar"
+                   },
+                   {
+                       "sha256":  "054EE49A235357D3C5AD295DB11303F903AB229B4A9D32293DA51B6CD01C818D",
+                       "family":  "RemcosRAT",
+                       "severity":  "Critical",
+                       "class":  "virus",
+                       "evidence":  "MalwareBazaar IOC: RemcosRAT. First seen: 2026-05-28 09:51:45 UTC.",
+                       "source":  "MalwareBazaar"
+                   },
+                   {
+                       "sha256":  "4574FB6323E861D9415D00BD4D031F8675F55382D1C3B6685C9DE792FA6DD986",
+                       "family":  "RemcosRAT",
+                       "severity":  "Critical",
+                       "class":  "virus",
+                       "evidence":  "MalwareBazaar IOC: RemcosRAT. First seen: 2026-05-28 06:28:16 UTC.",
+                       "source":  "MalwareBazaar"
+                   },
+                   {
+                       "sha256":  "4BB00EB0CD1E15EC069E479A6B42E746E6FAF74F9B7625CD0C100036A0E592D1",
+                       "family":  "RemcosRAT",
+                       "severity":  "Critical",
+                       "class":  "virus",
+                       "evidence":  "MalwareBazaar IOC: RemcosRAT. First seen: 2026-05-28 03:13:03 UTC.",
+                       "source":  "MalwareBazaar"
+                   },
+                   {
+                       "sha256":  "2103139D2A4FC3964956F7F3E83077D0769C7FA28D7A127FF057550DF79D025E",
+                       "family":  "RemcosRAT",
+                       "severity":  "Critical",
+                       "class":  "virus",
+                       "evidence":  "MalwareBazaar IOC: RemcosRAT. First seen: 2026-05-27 16:01:48 UTC.",
+                       "source":  "MalwareBazaar"
+                   },
+                   {
+                       "sha256":  "022A8F905615A6A98F5A9D8EA96E2A0D08B79512DD75C574699AF0DB9A731150",
+                       "family":  "RemcosRAT",
+                       "severity":  "Critical",
+                       "class":  "virus",
+                       "evidence":  "MalwareBazaar IOC: RemcosRAT. First seen: 2026-05-27 12:40:16 UTC.",
+                       "source":  "MalwareBazaar"
+                   },
+                   {
+                       "sha256":  "1BA5CD4EFE4E3EA5751E2AE04BB37C4858BC286F1A3ADF2D5C76B44348A14708",
+                       "family":  "RemcosRAT",
+                       "severity":  "Critical",
+                       "class":  "virus",
+                       "evidence":  "MalwareBazaar IOC: RemcosRAT. First seen: 2026-05-27 12:37:54 UTC.",
+                       "source":  "MalwareBazaar"
+                   },
+                   {
+                       "sha256":  "E1C27A877BBEA8863536C2BA291991C1DD033C88A4EB7DA9465E3E2224BA6177",
+                       "family":  "RemcosRAT",
+                       "severity":  "Critical",
+                       "class":  "virus",
+                       "evidence":  "MalwareBazaar IOC: RemcosRAT. First seen: 2026-05-27 06:54:50 UTC.",
+                       "source":  "MalwareBazaar"
+                   },
+                   {
+                       "sha256":  "619DB0EECCAFF7792EF89C4C0D12CFEDE8AED386935450C285C02AF96DEDFF96",
+                       "family":  "RemcosRAT",
+                       "severity":  "Critical",
+                       "class":  "virus",
+                       "evidence":  "MalwareBazaar IOC: RemcosRAT. First seen: 2026-05-26 07:03:48 UTC.",
+                       "source":  "MalwareBazaar"
+                   },
+                   {
+                       "sha256":  "0409BDA380F83C7110D4EBA0F6DF787D56FD99D6CF196A26E0DBF610E4B226F0",
+                       "family":  "RemcosRAT",
+                       "severity":  "Critical",
+                       "class":  "virus",
+                       "evidence":  "MalwareBazaar IOC: RemcosRAT. First seen: 2026-05-25 18:25:55 UTC.",
+                       "source":  "MalwareBazaar"
+                   },
+                   {
+                       "sha256":  "DDFFF81D72E630CB6D8E77E59F362C40B6032D16ED9CD004C7C2E049360B80C0",
+                       "family":  "RemcosRAT",
+                       "severity":  "Critical",
+                       "class":  "virus",
+                       "evidence":  "MalwareBazaar IOC: RemcosRAT. First seen: 2026-05-25 14:23:29 UTC.",
+                       "source":  "MalwareBazaar"
+                   },
+                   {
+                       "sha256":  "85B7D5979C80BD3E34CCDF0F9C2F86627D918D946E1112BF67078179176364A3",
+                       "family":  "RemcosRAT",
+                       "severity":  "Critical",
+                       "class":  "virus",
+                       "evidence":  "MalwareBazaar IOC: RemcosRAT. First seen: 2026-05-24 07:46:11 UTC.",
+                       "source":  "MalwareBazaar"
+                   },
+                   {
+                       "sha256":  "CD606C5DB52EEC5E0FA19A8912837848E47039BB5029DC967D75DCE85D06BEBC",
+                       "family":  "RemcosRAT",
+                       "severity":  "Critical",
+                       "class":  "virus",
+                       "evidence":  "MalwareBazaar IOC: RemcosRAT. First seen: 2026-05-24 05:33:50 UTC.",
+                       "source":  "MalwareBazaar"
+                   },
+                   {
+                       "sha256":  "FEFE3C3D93BFE430742DB1FF8E9437512A3C3D39EC45BFB854D79C81F4B46B75",
+                       "family":  "RemcosRAT",
+                       "severity":  "Critical",
+                       "class":  "virus",
+                       "evidence":  "MalwareBazaar IOC: RemcosRAT. First seen: 2026-05-24 04:33:58 UTC.",
+                       "source":  "MalwareBazaar"
+                   },
+                   {
+                       "sha256":  "26879111DBEEE579E23B748B15A5D6D4343FCED64122DCADA6937A206ACB2C40",
+                       "family":  "RemcosRAT",
+                       "severity":  "Critical",
+                       "class":  "virus",
+                       "evidence":  "MalwareBazaar IOC: RemcosRAT. First seen: 2026-05-24 04:24:13 UTC.",
+                       "source":  "MalwareBazaar"
+                   },
+                   {
+                       "sha256":  "61F8AA4FEB16589C09B0583D18307A7A28D0CE4DE829E89B9C4349F946AADCA8",
+                       "family":  "RemcosRAT",
+                       "severity":  "Critical",
+                       "class":  "virus",
+                       "evidence":  "MalwareBazaar IOC: RemcosRAT. First seen: 2026-05-24 04:05:59 UTC.",
+                       "source":  "MalwareBazaar"
+                   },
+                   {
+                       "sha256":  "5F9017462FD23D247B4008C86B944B3AAA604C860436D75BA6B08C69B2FB3A55",
+                       "family":  "RemcosRAT",
+                       "severity":  "Critical",
+                       "class":  "virus",
+                       "evidence":  "MalwareBazaar IOC: RemcosRAT. First seen: 2026-05-24 03:37:59 UTC.",
+                       "source":  "MalwareBazaar"
+                   },
+                   {
+                       "sha256":  "E21EA0851C36A4509B9D90509CAA8F55AE56409DECBC72C804458DB5720F8288",
+                       "family":  "RemcosRAT",
+                       "severity":  "Critical",
+                       "class":  "virus",
+                       "evidence":  "MalwareBazaar IOC: RemcosRAT. First seen: 2026-05-24 02:47:58 UTC.",
+                       "source":  "MalwareBazaar"
+                   },
+                   {
+                       "sha256":  "5A57D9EE45A27122C6EC1A5A8CF6ED2366F0D8EF9C8F56A0072F38F365499A79",
+                       "family":  "RemcosRAT",
+                       "severity":  "Critical",
+                       "class":  "virus",
+                       "evidence":  "MalwareBazaar IOC: RemcosRAT. First seen: 2026-05-24 02:19:23 UTC.",
+                       "source":  "MalwareBazaar"
+                   },
+                   {
+                       "sha256":  "4204657530D7F2E692CC0CED28A87ADB8740573AA4C9B363D339B9CACDA1AB8A",
+                       "family":  "RemcosRAT",
+                       "severity":  "Critical",
+                       "class":  "virus",
+                       "evidence":  "MalwareBazaar IOC: RemcosRAT. First seen: 2026-05-23 09:36:14 UTC.",
+                       "source":  "MalwareBazaar"
+                   },
+                   {
+                       "sha256":  "D3BBE911D76F1FC2C31E3B7C85DA7477BED6EAB70F6E829A0347511986677D0E",
+                       "family":  "RemcosRAT",
+                       "severity":  "Critical",
+                       "class":  "virus",
+                       "evidence":  "MalwareBazaar IOC: RemcosRAT. First seen: 2026-05-23 09:25:04 UTC.",
+                       "source":  "MalwareBazaar"
+                   },
+                   {
+                       "sha256":  "62990FA81113182214006A416DD1237C51F9DF7C6343F7BA0548E57A2AFBBA47",
+                       "family":  "RemcosRAT",
+                       "severity":  "Critical",
+                       "class":  "virus",
+                       "evidence":  "MalwareBazaar IOC: RemcosRAT. First seen: 2026-05-23 09:22:53 UTC.",
+                       "source":  "MalwareBazaar"
+                   },
+                   {
+                       "sha256":  "59CBFE5C50516D9C4C4EBCA140B239F7AE9088FD9A859D526ED67A46218FF790",
+                       "family":  "RemcosRAT",
+                       "severity":  "Critical",
+                       "class":  "virus",
+                       "evidence":  "MalwareBazaar IOC: RemcosRAT. First seen: 2026-05-22 17:03:34 UTC.",
                        "source":  "MalwareBazaar"
                    },
                    {
@@ -34451,227 +34675,187 @@
                        "source":  "MalwareBazaar"
                    },
                    {
-                       "sha256":  "9842F7E9567BB2AF79BBEBB8832012DF472FA2B8ED8D840F95985809F2BCAA9D",
-                       "family":  "RemcosRAT",
+                       "sha256":  "56A781DF94245D85F24B4C949402FC1B457A19C892D1E0C81F357F1D6533D44D",
+                       "family":  "FormBook",
                        "severity":  "Critical",
                        "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: RemcosRAT. First seen: 2026-01-06 07:53:29 UTC.",
+                       "evidence":  "MalwareBazaar IOC: FormBook. First seen: 2026-05-28 09:52:02 UTC.",
                        "source":  "MalwareBazaar"
                    },
                    {
-                       "sha256":  "F7EE227D17A1A53DFD57291D98ED6F7037145146D3BFF2B5E23EA9BFB84D9B2D",
-                       "family":  "RemcosRAT",
+                       "sha256":  "1C0A398026A91A03B059FF55BB6743B2BC76903DA0C83016CEE9520851618109",
+                       "family":  "FormBook",
                        "severity":  "Critical",
                        "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: RemcosRAT. First seen: 2026-01-06 07:40:39 UTC.",
+                       "evidence":  "MalwareBazaar IOC: FormBook. First seen: 2026-05-28 09:51:48 UTC.",
                        "source":  "MalwareBazaar"
                    },
                    {
-                       "sha256":  "CEC21C457674B6301B8F210489D87E5421C629F759CAD6986D1D740834E4EAEB",
-                       "family":  "RemcosRAT",
+                       "sha256":  "F186833E139A32EA467C86C2E30E49509581F5EBC2070EA4FA08420D59F36C70",
+                       "family":  "FormBook",
                        "severity":  "Critical",
                        "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: RemcosRAT. First seen: 2026-01-05 16:16:23 UTC.",
+                       "evidence":  "MalwareBazaar IOC: FormBook. First seen: 2026-05-28 06:26:58 UTC.",
                        "source":  "MalwareBazaar"
                    },
                    {
-                       "sha256":  "1AF859AE8DAB6D05433B1C60BD2D0E337FCD1A5E55ABD7C90832E36D839F8A13",
-                       "family":  "RemcosRAT",
+                       "sha256":  "FC944B5465A41AB46B5DDADDD499C84170E2454CA6E5FCE9987914AA8DBA1CBC",
+                       "family":  "FormBook",
                        "severity":  "Critical",
                        "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: RemcosRAT. First seen: 2026-01-05 14:47:35 UTC.",
+                       "evidence":  "MalwareBazaar IOC: FormBook. First seen: 2026-05-27 03:02:24 UTC.",
                        "source":  "MalwareBazaar"
                    },
                    {
-                       "sha256":  "71266A14831E72491FEBEC7A2DAEC4C2C5FB21ED441C697C5B6DA062F1B23E04",
-                       "family":  "RemcosRAT",
+                       "sha256":  "1FC0D3B626B104458DF9A73E2261BC1150FCA4C2A6CEAE2FB0343406F4C7D83C",
+                       "family":  "FormBook",
                        "severity":  "Critical",
                        "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: RemcosRAT. First seen: 2026-01-05 09:36:46 UTC.",
+                       "evidence":  "MalwareBazaar IOC: FormBook. First seen: 2026-05-26 17:56:03 UTC.",
                        "source":  "MalwareBazaar"
                    },
                    {
-                       "sha256":  "7FE28FB8A7419C95FBA428891E5B3914D9E2B365A5A8932DA74DB52A1C1DABD8",
-                       "family":  "RemcosRAT",
+                       "sha256":  "0C6730A7EFA571195CA00C719B07035DB16574B2CD5F9A8313FBB5661CE45841",
+                       "family":  "FormBook",
                        "severity":  "Critical",
                        "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: RemcosRAT. First seen: 2026-01-01 19:50:20 UTC.",
+                       "evidence":  "MalwareBazaar IOC: FormBook. First seen: 2026-05-26 14:53:32 UTC.",
                        "source":  "MalwareBazaar"
                    },
                    {
-                       "sha256":  "3665B2D3592015CC53CB7E5AF79CDEC345C21A85D9D07968D6C7598128CA5CB4",
-                       "family":  "RemcosRAT",
+                       "sha256":  "D43657135DA7882B8E1E9F258981462260DA25153CC370587AC8597C3F0DDECA",
+                       "family":  "FormBook",
                        "severity":  "Critical",
                        "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: RemcosRAT. First seen: 2026-01-01 00:07:58 UTC.",
+                       "evidence":  "MalwareBazaar IOC: FormBook. First seen: 2026-05-26 13:03:12 UTC.",
                        "source":  "MalwareBazaar"
                    },
                    {
-                       "sha256":  "050EDADEDD7947BC6418F7856A29DF5B7B5550BF5EEC7F5F37E9A7E1713036F6",
-                       "family":  "RemcosRAT",
+                       "sha256":  "CF124A23A7D04CC37A3B50B952A3917B867041170098E6C938E9F26A0F1883E8",
+                       "family":  "FormBook",
                        "severity":  "Critical",
                        "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: RemcosRAT. First seen: 2025-12-31 22:54:39 UTC.",
+                       "evidence":  "MalwareBazaar IOC: FormBook. First seen: 2026-05-26 13:02:02 UTC.",
                        "source":  "MalwareBazaar"
                    },
                    {
-                       "sha256":  "CD0261F37A95FD026D923BAE8D3F69728A99AF0AFE8B62815AFB92BE993DD1F7",
-                       "family":  "RemcosRAT",
+                       "sha256":  "DF6F087BBE332DE8DEF4D842F8C22A4CD48D46E735E31D84E9485595FA5CCD7F",
+                       "family":  "FormBook",
                        "severity":  "Critical",
                        "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: RemcosRAT. First seen: 2025-12-30 16:16:02 UTC.",
+                       "evidence":  "MalwareBazaar IOC: FormBook. First seen: 2026-05-26 13:01:38 UTC.",
                        "source":  "MalwareBazaar"
                    },
                    {
-                       "sha256":  "FB24BEE1B9ED5B49802B604D4FB2D033067F43708F99086E80C6F9148D4D2F17",
-                       "family":  "RemcosRAT",
+                       "sha256":  "067DECA3F69D5194E2EAA573FF9F31C9A3897E707722318230C4EA34AC79E2B8",
+                       "family":  "FormBook",
                        "severity":  "Critical",
                        "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: RemcosRAT. First seen: 2025-12-30 16:12:33 UTC.",
+                       "evidence":  "MalwareBazaar IOC: FormBook. First seen: 2026-05-26 11:52:11 UTC.",
                        "source":  "MalwareBazaar"
                    },
                    {
-                       "sha256":  "7788726275B4D212DDAA19C37432474AD929827FCB04F42088C6D459733BBB63",
-                       "family":  "RemcosRAT",
+                       "sha256":  "B3C9DF5682E0B9C75FC30D6D02D0B52CC1B12B39532F7A9A4DCC23157A1AE51E",
+                       "family":  "FormBook",
                        "severity":  "Critical",
                        "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: RemcosRAT. First seen: 2025-12-30 13:20:06 UTC.",
+                       "evidence":  "MalwareBazaar IOC: FormBook. First seen: 2026-05-26 11:52:05 UTC.",
                        "source":  "MalwareBazaar"
                    },
                    {
-                       "sha256":  "17CA4AF085FA1E845509A2E7D0BC6F155FFF8B1215E001002E3D7704D04E0903",
-                       "family":  "RemcosRAT",
+                       "sha256":  "0D8DA544CA387D036D255A462B860DC42228A0BB0B9FA4914F899436A3BD7D54",
+                       "family":  "FormBook",
                        "severity":  "Critical",
                        "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: RemcosRAT. First seen: 2025-12-30 11:58:03 UTC.",
+                       "evidence":  "MalwareBazaar IOC: FormBook. First seen: 2026-05-26 11:51:33 UTC.",
                        "source":  "MalwareBazaar"
                    },
                    {
-                       "sha256":  "0F8C783B02F16C59793732D4FA5C1CA87FC333AD08A6136D5D1E70B7C5A8C660",
-                       "family":  "RemcosRAT",
+                       "sha256":  "BCB89DEE4C0A20D59A291FE017196626A6536B90E92F14CF20DB0C8A38C45A71",
+                       "family":  "FormBook",
                        "severity":  "Critical",
                        "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: RemcosRAT. First seen: 2025-12-29 07:26:31 UTC.",
+                       "evidence":  "MalwareBazaar IOC: FormBook. First seen: 2026-05-26 11:51:27 UTC.",
                        "source":  "MalwareBazaar"
                    },
                    {
-                       "sha256":  "9EE772825BC36FBB26ACB6D76E891319A497AF10F5AE8E07D8919903350EEF2D",
-                       "family":  "RemcosRAT",
+                       "sha256":  "3A00CC2FAEF315E0959F4A854C6E2488FAC7FF8B4BAAB557484427F8ECE89AA3",
+                       "family":  "FormBook",
                        "severity":  "Critical",
                        "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: RemcosRAT. First seen: 2025-12-29 07:25:49 UTC.",
+                       "evidence":  "MalwareBazaar IOC: FormBook. First seen: 2026-05-26 10:51:41 UTC.",
                        "source":  "MalwareBazaar"
                    },
                    {
-                       "sha256":  "2AB53C46843E0719823A65CDFD414E3FA202691165F2E75951D51D884D01BDD8",
-                       "family":  "RemcosRAT",
+                       "sha256":  "580095FA81F7B8FB14FDAA9203137F8EE9299CCA68BA011E6BD285F0284BB6C6",
+                       "family":  "FormBook",
                        "severity":  "Critical",
                        "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: RemcosRAT. First seen: 2025-12-25 14:34:44 UTC.",
+                       "evidence":  "MalwareBazaar IOC: FormBook. First seen: 2026-05-26 10:20:25 UTC.",
                        "source":  "MalwareBazaar"
                    },
                    {
-                       "sha256":  "B5736A59DFDB009C5A92592F367A939AAE689097EB1ECFF6C02F2CACC09DA66D",
-                       "family":  "RemcosRAT",
+                       "sha256":  "1307815065111057E99756A8F0E7F590869C275101FA0F6769E529B90E42677A",
+                       "family":  "FormBook",
                        "severity":  "Critical",
                        "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: RemcosRAT. First seen: 2025-12-25 14:29:53 UTC.",
+                       "evidence":  "MalwareBazaar IOC: FormBook. First seen: 2026-05-26 08:41:41 UTC.",
                        "source":  "MalwareBazaar"
                    },
                    {
-                       "sha256":  "1E09010334A0759862DC748E4DD2A78110603BDB6731495EAD2C5D6FD64BA597",
-                       "family":  "RemcosRAT",
+                       "sha256":  "64E2D169D90930905374A2F504CFA6A06276333533875B7A7D076CB2C472AE6A",
+                       "family":  "FormBook",
                        "severity":  "Critical",
                        "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: RemcosRAT. First seen: 2025-12-25 12:43:12 UTC.",
+                       "evidence":  "MalwareBazaar IOC: FormBook. First seen: 2026-05-26 07:09:14 UTC.",
                        "source":  "MalwareBazaar"
                    },
                    {
-                       "sha256":  "9E767325953E45535CDE37F767E24FA6EE1CEFDB8EF97AF675F3AB679E26FE3C",
-                       "family":  "RemcosRAT",
+                       "sha256":  "605A824E4A96C54160BBFF512687321FCA8F06B0543E4136F13B3800915FD263",
+                       "family":  "FormBook",
                        "severity":  "Critical",
                        "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: RemcosRAT. First seen: 2025-12-25 05:48:50 UTC.",
+                       "evidence":  "MalwareBazaar IOC: FormBook. First seen: 2026-05-26 06:59:33 UTC.",
                        "source":  "MalwareBazaar"
                    },
                    {
-                       "sha256":  "B07AB96A7ED364AF35708F7547829378F10D747E76E479E5A2B607FD2E30602B",
-                       "family":  "RemcosRAT",
+                       "sha256":  "129EF9250B91767463DC5D219BE2DB7F389A5BB7E72DC2D41CBD9FDBECA20941",
+                       "family":  "FormBook",
                        "severity":  "Critical",
                        "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: RemcosRAT. First seen: 2025-12-25 05:44:30 UTC.",
+                       "evidence":  "MalwareBazaar IOC: FormBook. First seen: 2026-05-25 21:15:55 UTC.",
                        "source":  "MalwareBazaar"
                    },
                    {
-                       "sha256":  "481FC14C21934B7F35D3E143C32AB39CC241B4300677431246B7C1DCA10F2258",
-                       "family":  "RemcosRAT",
+                       "sha256":  "B3B1CE98C4CC971867FAF6EBE0FF999A14E2C4138ADEBC79234D45045954FD6E",
+                       "family":  "FormBook",
                        "severity":  "Critical",
                        "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: RemcosRAT. First seen: 2025-12-25 05:36:47 UTC.",
+                       "evidence":  "MalwareBazaar IOC: FormBook. First seen: 2026-05-25 21:15:47 UTC.",
                        "source":  "MalwareBazaar"
                    },
                    {
-                       "sha256":  "EB5C7C6370D533E6675EF2FB8B5F3F10CABC36584DDD3D3AD026AF5266E84ED7",
-                       "family":  "RemcosRAT",
+                       "sha256":  "BECE18EEE8EAB0FC75FA5CBAE71089D84BAE77783934C921344F505AF451A99B",
+                       "family":  "FormBook",
                        "severity":  "Critical",
                        "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: RemcosRAT. First seen: 2025-12-23 17:15:29 UTC.",
+                       "evidence":  "MalwareBazaar IOC: FormBook. First seen: 2026-05-25 06:38:07 UTC.",
                        "source":  "MalwareBazaar"
                    },
                    {
-                       "sha256":  "3204AF9817BEAECAA95BB0B0D8B0E21232650503A4543009D6FB57A73AFDC603",
-                       "family":  "RemcosRAT",
+                       "sha256":  "5E0E2876B259AE4C3DFDD53AC472E0759DE1F00C590C6C02F3E1D9FF92E1D78C",
+                       "family":  "FormBook",
                        "severity":  "Critical",
                        "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: RemcosRAT. First seen: 2025-12-23 17:15:24 UTC.",
+                       "evidence":  "MalwareBazaar IOC: FormBook. First seen: 2026-05-23 12:59:47 UTC.",
                        "source":  "MalwareBazaar"
                    },
                    {
-                       "sha256":  "4F7B4002A9E394D691FC7595D9B37FA2C5D711A486085E3799D0669922B0F8B5",
-                       "family":  "RemcosRAT",
+                       "sha256":  "4A1CF2F06EA8576C62C669FD2F6F9F3557D4ACA37ABCA66419E5CC67C451F81C",
+                       "family":  "FormBook",
                        "severity":  "Critical",
                        "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: RemcosRAT. First seen: 2025-12-23 16:36:47 UTC.",
-                       "source":  "MalwareBazaar"
-                   },
-                   {
-                       "sha256":  "413A08EFE39BC4EEA9841564F4497BF2AB6E5E074D7BF4E7F9BE6D80DA274E68",
-                       "family":  "RemcosRAT",
-                       "severity":  "Critical",
-                       "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: RemcosRAT. First seen: 2025-12-23 10:29:22 UTC.",
-                       "source":  "MalwareBazaar"
-                   },
-                   {
-                       "sha256":  "A978B6F3E70E380384597E4A52F4B7AB04AF36D55C4CB95D0E354B50AA3EAF73",
-                       "family":  "RemcosRAT",
-                       "severity":  "Critical",
-                       "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: RemcosRAT. First seen: 2025-12-23 07:38:25 UTC.",
-                       "source":  "MalwareBazaar"
-                   },
-                   {
-                       "sha256":  "3D2B5353B7F6331C10280799E82E05DD53C8969CDF424A4F8DAD23A7AF5E488C",
-                       "family":  "RemcosRAT",
-                       "severity":  "Critical",
-                       "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: RemcosRAT. First seen: 2025-12-22 06:51:23 UTC.",
-                       "source":  "MalwareBazaar"
-                   },
-                   {
-                       "sha256":  "8F73E814EBE964497FC34F7395B1022A732B5A22DCFCB741FE22FD2A24F93971",
-                       "family":  "RemcosRAT",
-                       "severity":  "Critical",
-                       "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: RemcosRAT. First seen: 2025-12-18 16:31:26 UTC.",
-                       "source":  "MalwareBazaar"
-                   },
-                   {
-                       "sha256":  "23D149CDE5C26C3038AE300DE14E7A3B14EDADFA57DF2B1027A415B82A19117F",
-                       "family":  "RemcosRAT",
-                       "severity":  "Critical",
-                       "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: RemcosRAT. First seen: 2025-12-18 16:31:16 UTC.",
+                       "evidence":  "MalwareBazaar IOC: FormBook. First seen: 2026-05-23 12:59:29 UTC.",
                        "source":  "MalwareBazaar"
                    },
                    {
@@ -42489,190 +42673,6 @@
                        "class":  "virus",
                        "evidence":  "MalwareBazaar IOC: FormBook. First seen: 2026-03-06 15:03:05 UTC.",
                        "source":  "MalwareBazaar"
-                   },
-                   {
-                       "sha256":  "401B7BB4653506A6382C8204574C37DC49078B5E0AEA939A675B5DBD28AFFB60",
-                       "family":  "FormBook",
-                       "severity":  "Critical",
-                       "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: FormBook. First seen: 2026-03-06 15:02:15 UTC.",
-                       "source":  "MalwareBazaar"
-                   },
-                   {
-                       "sha256":  "A35B8D862C26F4D664309383E529A93EDD3CB4562356894E28CAFEC247A0F159",
-                       "family":  "FormBook",
-                       "severity":  "Critical",
-                       "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: FormBook. First seen: 2026-03-06 15:00:45 UTC.",
-                       "source":  "MalwareBazaar"
-                   },
-                   {
-                       "sha256":  "BE17CA398EBEDB1855AEA679A1DD047BAFF05FC142408B8E6DFA8FE24BE89B94",
-                       "family":  "FormBook",
-                       "severity":  "Critical",
-                       "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: FormBook. First seen: 2026-03-06 15:00:23 UTC.",
-                       "source":  "MalwareBazaar"
-                   },
-                   {
-                       "sha256":  "7BA7A9F45087733F3FA825456A4FEB4B6C79710EE2C9DD65C54D8455C5BD0C0B",
-                       "family":  "FormBook",
-                       "severity":  "Critical",
-                       "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: FormBook. First seen: 2026-03-06 15:00:15 UTC.",
-                       "source":  "MalwareBazaar"
-                   },
-                   {
-                       "sha256":  "3486A642F30032D26DC0118267C172B7E6A43CA181A1AD679820C1B19C4FB11A",
-                       "family":  "FormBook",
-                       "severity":  "Critical",
-                       "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: FormBook. First seen: 2026-03-06 14:59:54 UTC.",
-                       "source":  "MalwareBazaar"
-                   },
-                   {
-                       "sha256":  "2A698FEC192F93A373116FCD7E3EA6587A232AAEB079F342D461B348D1274158",
-                       "family":  "FormBook",
-                       "severity":  "Critical",
-                       "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: FormBook. First seen: 2026-03-06 14:58:53 UTC.",
-                       "source":  "MalwareBazaar"
-                   },
-                   {
-                       "sha256":  "12312F4F00B04EE1BBBCED370335DBA32914F75A5AED504F473D425939DD975E",
-                       "family":  "FormBook",
-                       "severity":  "Critical",
-                       "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: FormBook. First seen: 2026-03-06 14:58:34 UTC.",
-                       "source":  "MalwareBazaar"
-                   },
-                   {
-                       "sha256":  "4EA23BC9C4F6D5AAC40A4C1073609FEBBFD0DDEEE9312B7388E00D6225E14813",
-                       "family":  "FormBook",
-                       "severity":  "Critical",
-                       "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: FormBook. First seen: 2026-03-06 14:58:17 UTC.",
-                       "source":  "MalwareBazaar"
-                   },
-                   {
-                       "sha256":  "C19D93B3F0B05D5E2931214903B3BF350E860AD5D7E750C3D7671AC726633534",
-                       "family":  "FormBook",
-                       "severity":  "Critical",
-                       "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: FormBook. First seen: 2026-03-06 14:57:15 UTC.",
-                       "source":  "MalwareBazaar"
-                   },
-                   {
-                       "sha256":  "A39F1EF95667B114A57086C853357F8855833A1BFC18D37E93C04FDD4945EF45",
-                       "family":  "FormBook",
-                       "severity":  "Critical",
-                       "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: FormBook. First seen: 2026-03-06 14:56:57 UTC.",
-                       "source":  "MalwareBazaar"
-                   },
-                   {
-                       "sha256":  "AE39CCBA9894200313B2255B0EB4915DA8B8ACC058212F538AF701D3800EB7AB",
-                       "family":  "FormBook",
-                       "severity":  "Critical",
-                       "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: FormBook. First seen: 2026-03-06 14:56:44 UTC.",
-                       "source":  "MalwareBazaar"
-                   },
-                   {
-                       "sha256":  "0CD839C7CABCEABE9324F0A440D99669A6E4F4C7975E2A19170D7289B5408EF1",
-                       "family":  "FormBook",
-                       "severity":  "Critical",
-                       "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: FormBook. First seen: 2026-03-06 14:54:10 UTC.",
-                       "source":  "MalwareBazaar"
-                   },
-                   {
-                       "sha256":  "441DD55F2AACF3E99EC620662E882D0CEEBC99B8B51AA5FA8D255B57A7C87735",
-                       "family":  "FormBook",
-                       "severity":  "Critical",
-                       "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: FormBook. First seen: 2026-03-06 14:53:40 UTC.",
-                       "source":  "MalwareBazaar"
-                   },
-                   {
-                       "sha256":  "9C6479B504B071E6E81ABD60AAA37B7C5E7CB11FFFD47AB986D8CC966974FA62",
-                       "family":  "FormBook",
-                       "severity":  "Critical",
-                       "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: FormBook. First seen: 2026-03-06 14:53:15 UTC.",
-                       "source":  "MalwareBazaar"
-                   },
-                   {
-                       "sha256":  "CEA1D12AA2845D2A90FAD75A30DF6985C342E80BD9327C0C4DB49F75A4F3BCFB",
-                       "family":  "FormBook",
-                       "severity":  "Critical",
-                       "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: FormBook. First seen: 2026-03-06 14:51:43 UTC.",
-                       "source":  "MalwareBazaar"
-                   },
-                   {
-                       "sha256":  "3A62C1AE1EB80997AF627EE0A4A669D055A8A759C8B25A391A43D4122171BB90",
-                       "family":  "FormBook",
-                       "severity":  "Critical",
-                       "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: FormBook. First seen: 2026-03-06 14:51:18 UTC.",
-                       "source":  "MalwareBazaar"
-                   },
-                   {
-                       "sha256":  "67FE04B760067E121B3A5FF191B6A59CAF265B66972774075DF5FE0E60BF6AC3",
-                       "family":  "FormBook",
-                       "severity":  "Critical",
-                       "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: FormBook. First seen: 2026-03-06 14:50:18 UTC.",
-                       "source":  "MalwareBazaar"
-                   },
-                   {
-                       "sha256":  "E0A7C224FCB25ECF89E90D1C00F7A8FD5192BD1FF63278754E2056549443B87F",
-                       "family":  "FormBook",
-                       "severity":  "Critical",
-                       "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: FormBook. First seen: 2026-03-06 14:48:50 UTC.",
-                       "source":  "MalwareBazaar"
-                   },
-                   {
-                       "sha256":  "0D8E84BE1E43C2A884BD80F7FBDFD1E82C26CD9A58D700599AD4B16D162D1610",
-                       "family":  "FormBook",
-                       "severity":  "Critical",
-                       "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: FormBook. First seen: 2026-03-06 14:46:27 UTC.",
-                       "source":  "MalwareBazaar"
-                   },
-                   {
-                       "sha256":  "1D940966AC64EF594B93203B056EC7B8554C0F6EC93F03CF48BD63A3EB1F3A49",
-                       "family":  "FormBook",
-                       "severity":  "Critical",
-                       "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: FormBook. First seen: 2026-03-06 14:45:44 UTC.",
-                       "source":  "MalwareBazaar"
-                   },
-                   {
-                       "sha256":  "179F5D450A755A78DA421044688B0BE6375F0BAA76ED4E9006AE87D363A4DAAE",
-                       "family":  "FormBook",
-                       "severity":  "Critical",
-                       "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: FormBook. First seen: 2026-03-06 14:45:29 UTC.",
-                       "source":  "MalwareBazaar"
-                   },
-                   {
-                       "sha256":  "6349FFE959C00AB04329BF59E7BC1CEFACA892BD112077D6EC4ABDB0891D3B1F",
-                       "family":  "FormBook",
-                       "severity":  "Critical",
-                       "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: FormBook. First seen: 2026-03-06 14:44:56 UTC.",
-                       "source":  "MalwareBazaar"
-                   },
-                   {
-                       "sha256":  "AB1CBDBB23BD7A1ADD328BE6A262D7C5165FC2300ABF5AFB5A99A0B74E5AC58F",
-                       "family":  "FormBook",
-                       "severity":  "Critical",
-                       "class":  "virus",
-                       "evidence":  "MalwareBazaar IOC: FormBook. First seen: 2026-03-06 14:44:32 UTC.",
-                       "source":  "MalwareBazaar"
                    }
                ],
     "yaraLikeRules":  [
@@ -42965,12 +42965,19 @@
                                               ]
                        },
     "heuristicThresholds":  {
-                                "maxQuickScanFiles":  8000,
+                                "maxQuickScanFiles":  4000,
                                 "maxQuickHashFileSizeMb":  16,
                                 "maxFullHashFileSizeMb":  64,
+                                "maxYaraTextFileSizeMb":  4,
+                                "maxYaraByteFileSizeMb":  8,
                                 "maxEntropyFileSizeMb":  8,
+                                "maxEntropyBytesToScan":  65536,
                                 "highEntropyThreshold":  7.2,
                                 "minCombinedSignals":  2,
+                                "maxSignatureVerificationMs":  500,
+                                "maxArchiveAnalysisMs":  400,
+                                "slowFileThresholdMs":  1500,
+                                "maxSlowFileTelemetryEntries":  25,
                                 "suspiciousSectionNames":  [
                                                                ".upx",
                                                                ".aspack",
@@ -42985,6 +42992,56 @@
                              "promoteOnPersistence":  true,
                              "promoteOnProcessLaunch":  true
                          },
+    "bootPolicies":  {
+                         "enabled":  true,
+                         "strictnessProfile":  "Balanced",
+                         "applyBalancedToCustomScan":  false,
+                         "customScanGuardEnabled":  true,
+                         "enableMbrVbrChecks":  true,
+                         "enableBootCodeHash":  true
+                     },
+    "bootFilePolicies":  {
+                             "enabled":  true,
+                             "integrityMode":  "SignerPlusHash",
+                             "requiredPaths":  [
+                                                   "EFI\\Microsoft\\Boot\\bootmgfw.efi",
+                                                   "EFI\\Boot\\bootx64.efi"
+                                               ],
+                             "allowedSigners":  [
+                                                    "Microsoft Windows",
+                                                    "Microsoft Corporation"
+                                                ],
+                             "hashAllowlist":  [
+
+                                               ],
+                             "hashAllowlistProfiles":  [
+
+                                                       ],
+                             "enforceHashAllowlist":  false
+                         },
+    "bcdPolicies":  {
+                        "enabled":  true,
+                        "forbiddenFlags":  [
+                                               "testsigning",
+                                               "debug",
+                                               "nointegritychecks"
+                                           ],
+                        "suspiciousLoaderPathRegex":  [
+                                                          "\\temp\\",
+                                                          "\\users\\public\\",
+                                                          "\\appdata\\",
+                                                          "\\programdata\\"
+                                                      ]
+                    },
+    "sectorPolicies":  {
+                           "enabled":  true,
+                           "requireMbrSignature":  true,
+                           "checkGptProtectiveMbr":  true,
+                           "bootCodeHashAlgorithm":  "SHA256",
+                           "knownBootCodeHashes":  [
+
+                                                   ]
+                       },
     "patterns":  {
                      "malware":  [
                                      "(^|[^a-z])mimikatz([^a-z]|$)",
@@ -43013,5 +43070,88 @@
                                              "defender",
                                              "antivirus"
                                          ]
-                 }
+                 },
+    "onlineReputation":  {
+                             "enabled":  false,
+                             "provider":  "circl",
+                             "endpoint":  "https://hashlookup.circl.lu/bulk/sha1",
+                             "applyToModes":  [
+                                                  "FullScan",
+                                                  "CustomScan"
+                                              ],
+                             "batchSize":  25,
+                             "timeoutSeconds":  15,
+                             "minTrustScore":  90,
+                             "skipInWinPE":  true
+                         },
+    "pathExclusions":  {
+                           "applyToModes":  [
+                                                "ThreatScan",
+                                                "FullScan",
+                                                "CustomScan"
+                                            ],
+                           "customModePolicy":  "Tier1Only",
+                           "patterns":  [
+                                            "*\\code\\user\\history\\*",
+                                            "*\\cursor\\user\\history\\*",
+                                            "*\\appdata\\roaming\\amd\\chipset_driver_installer\\*",
+                                            "*\\appdata\\local\\temp\\cst_contract_validate_*",
+                                            "*\\appdata\\local\\temp\\werdmzvp\\*",
+                                            "*\\appdata\\roaming\\movavi video suite 23\\*",
+                                            "*\\appdata\\roaming\\movavi photo editor 23\\*",
+                                            "*\\appdata\\local\\temp\\????????.???\\*",
+                                            "*\\appdata\\local\\temp\\vs\\setup\\*",
+                                            "*\\appdata\\roaming\\bin\\*",
+                                            "*\\appdata\\roaming\\data\\*",
+                                            "*\\appdata\\roaming\\python\\*",
+                                            "*\\appdata\\roaming\\playme\\*",
+                                            "*\\appdata\\roaming\\microsoft\\installer\\*"
+                                        ],
+                           "tiers":  {
+                                         "tier1":  {
+                                                       "applyToModes":  [
+                                                                            "ThreatScan",
+                                                                            "FullScan",
+                                                                            "CustomScan"
+                                                                        ],
+                                                       "patterns":  [
+                                                                        "*\\code\\user\\history\\*",
+                                                                        "*\\cursor\\user\\history\\*",
+                                                                        "*\\appdata\\roaming\\amd\\chipset_driver_installer\\*",
+                                                                        "*\\appdata\\local\\temp\\cst_contract_validate_*",
+                                                                        "*\\appdata\\local\\temp\\werdmzvp\\*",
+                                                                        "*\\appdata\\roaming\\movavi video suite 23\\*",
+                                                                        "*\\appdata\\roaming\\movavi photo editor 23\\*",
+                                                                        "*\\appdata\\local\\temp\\????????.???\\*",
+                                                                        "*\\appdata\\local\\temp\\vs\\setup\\*",
+                                                                        "*\\appdata\\roaming\\bin\\*",
+                                                                        "*\\appdata\\roaming\\data\\*",
+                                                                        "*\\appdata\\roaming\\python\\*",
+                                                                        "*\\appdata\\roaming\\playme\\*",
+                                                                        "*\\appdata\\roaming\\microsoft\\installer\\*"
+                                                                    ]
+                                                   },
+                                         "tier2":  {
+                                                       "applyToModes":  [
+                                                                            "ThreatScan",
+                                                                            "FullScan"
+                                                                        ],
+                                                       "patterns":  [
+                                                                        "*\\appdata\\roaming\\google\\*",
+                                                                        "*\\appdata\\roaming\\npm\\*",
+                                                                        "*\\appdata\\roaming\\obs-studio\\*",
+                                                                        "*\\appdata\\roaming\\vortex\\*"
+                                                                    ]
+                                                   },
+                                         "tier3":  {
+                                                       "applyToModes":  [
+                                                                            "ThreatScan",
+                                                                            "FullScan"
+                                                                        ],
+                                                       "patterns":  [
+
+                                                                    ]
+                                                   }
+                                     }
+                       }
 }
